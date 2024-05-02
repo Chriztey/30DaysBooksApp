@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">30DaysBooksApp</string>
+
+    <string name="book1name">IKIGAI</string>
+    <string name="book2name">ATOMIC HABITS</string>
+    <string name="book3name">30DaysBooksApp</string>
+    <string name="book4name">30DaysBooksApp</string>
+    <string name="book5name">30DaysBooksApp</string>
+    <string name="book6name">30DaysBooksApp</string>
+    <string name="book7name">30DaysBooksApp</string>
+    <string name="book8name">30DaysBooksApp</string>
+    <string name="book9name">30DaysBooksApp</string>
+    <string name="book10name">30DaysBooksApp</string>
+
+    <string name="book1sy">Explores the Japanese concept of finding one\'s purpose in life by
+        analyzing the habits and beliefs of the world\'s longest-living people. Through case
+        studies, the book offers practical insights on how to live a more fulfilling life.</string>
+    <string name="book2sy">Atomic Habits will reshape the way you think about progress and success,
+        and give you the tools and strategies you need to transform your habits--whether you are a team looking to win a championship,
+        an organization hoping to redefine an industry,or simply an individual who wishes to quit smoking, lose weight,
+        reduce stress, or achieve any other goal.</string>
+    <string name="book3sy">30DaysBooksApp</string>
+    <string name="book4sy">30DaysBooksApp</string>
+    <string name="book5sy">30DaysBooksApp</string>
+    <string name="book6sy">30DaysBooksApp</string>
+    <string name="book7sy">30DaysBooksApp</string>
+    <string name="book8sy">30DaysBooksApp</string>
+    <string name="book9sy">30DaysBooksApp</string>
+    <string name="book10sy">30DaysBooksApp</string>
+
+    <string name="book1r">4</string>
+    <string name="book2r">4</string>
+    <string name="book3r">30DaysBooksApp</string>
+    <string name="book4r">30DaysBooksApp</string>
+    <string name="book5r">30DaysBooksApp</string>
+    <string name="book6r">30DaysBooksApp</string>
+    <string name="book7r">30DaysBooksApp</string>
+    <string name="book8r">30DaysBooksApp</string>
+    <string name="book9r">30DaysBooksApp</string>
+    <string name="book10r">30DaysBooksApp</string>
+
+
+
+
+</resources>
