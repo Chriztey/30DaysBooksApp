@@ -173,3 +173,14 @@ fun BookCardPreview() {
         ListBooks(BookList.BookListing)
     }
 }
+
+fun validatePassword(password: String): Boolean {
+    // write your code here
+    if (password.length > 4) {
+        println("Good password")
+        return true} else {
+        println("Your password should be five or longer characters, please write a new password")
+        return false
+    }
+}
+
